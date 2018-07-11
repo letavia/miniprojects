@@ -1,0 +1,108 @@
+{
+  "id": "Event001",
+  "type": "Event",
+  "venue": {
+    "type": "location",
+    "value": {
+      "venueName": "Teatro Arriaga",
+      "city": "Bilbao",
+      "country": "Spain"
+    },
+    "metadata": {}
+  },
+  "coordinate": {
+    "value": "43.2594872108799, -2.92489528656005",
+    "type": "geo:point",
+    "metadata": {}
+  },
+    "name": {
+    "type": "Text",
+    "value": "El científico de la ópera",
+    "metadata": {}
+  },
+  "details": {
+    "type": "eventDetails",
+    "value": {
+      "eventType": "Actividad infantil",
+      "eventStartDate" : "18/05/2019",
+      "eventEndDate" : "27/05/2019", 
+      "eventRegistrationStartDate" : "23/05/2018",
+      "eventRegistrationEndDate" : "24/05/2018",
+      "eventOnLine" : "No",
+      "eventLanguages" : "Español"
+     },
+    "metadata": {}
+  }
+},
+{
+  "id": "Event002",
+  "type": "Event",
+  "venue": {
+    "type": "location",
+    "value": {
+      "venueName": "Palacio Euskalduna",
+      "city": "Bilbao",
+      "country": "Spain"
+    },
+    "metadata": {}
+  },
+  "coordinate": {
+    "value": "43.266966,-2.944419",
+    "type": "geo:point",
+    "metadata": {}
+  },
+    "name": {
+    "type": "Text",
+    "value": "Les Pêcheurs de Perles",
+    "metadata": {}
+  },
+  "details": {
+    "type": "eventDetails",
+    "value": {
+      "eventType": "Teatro",
+      "eventStartDate" : "18/05/2019",
+      "eventEndDate" : "27/05/2019", 
+      "eventRegistrationStartDate" : "22/03/2018",
+      "eventRegistrationEndDate" : "23/03/2018",
+      "eventOnLine" : "No",
+      "eventLanguages" : "Español"
+     },
+    "metadata": {}
+  }
+},
+{
+  "id": "Event003",
+  "type": "Event",
+  "venue": {
+    "type": "location",
+    "value": {
+      "venueName": "Palacio Euskalduna",
+      "city": "Barakaldo",
+      "country": "Spain"
+    },
+    "metadata": {}
+  },
+  "coordinate": {
+    "value": "43.296826,-2.985259",
+    "type": "geo:point",
+    "metadata": {}
+  },
+    "name": {
+    "type": "Text",
+    "value": "Ni ala zu",
+    "metadata": {}
+  },
+  "details": {
+    "type": "eventDetails",
+    "value": {
+      "eventType": "Teatro",
+      "eventStartDate" : "18/04/2019",
+      "eventEndDate" : "18/04/2019", 
+      "eventRegistrationStartDate" : "05/04/2018",
+      "eventRegistrationEndDate" : "06/04/2018",
+      "eventOnLine" : "No",
+      "eventLanguages" : "Euskera"
+     },
+    "metadata": {}
+  }
+}
