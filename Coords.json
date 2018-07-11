@@ -1,0 +1,19 @@
+{
+  "id": "Coords-User01",
+  "type": "Coords",
+  "TimeInstant": {
+    "type": "ISO8601",
+    "value": "2018-07-10T04:29:38.00Z",
+    "metadata": {}
+  },
+  "coordinate": {
+    "type": "geo:point",
+    "value": "41.390205, 2.154007",
+    "metadata": {
+      "TimeInstant": {
+        "type": "ISO8601",
+        "value": "2018-07-10T04:29:38.900Z"
+      }
+    }
+  }
+}
